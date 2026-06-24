@@ -1,0 +1,6 @@
+{
+  "name": "Delvaro - Premium AI Sales Systems",
+  "description": "We build AI-powered revenue systems that generate customers 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
